@@ -28,17 +28,20 @@
 3. Run the application:
    [command to run the application]
 Sample Input
-Example adjacency matrix:
+Enter matrix type (adjacency/incidence): adjacency
+Enter the number of rows: 3
+Enter the number of columns: 3
+Enter the matrix values, with 3 values per row:
 0 1 1
 1 0 1
 1 1 0
 
 Sample Output
 Graph:
-1 -- 2
-|  /
-| /
-3
+Adjacency Matrix:
+0 1 1
+1 0 1
+1 1 0
 
 Fundamental Cycle Matrix:
 [1 1 1]
