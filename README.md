@@ -10,19 +10,6 @@
 
 ---
 
-# Graph Visualizer
-
-An application for visualizing graphs from an adjacency matrix or incidence matrix. It also generates the fundamental cycle matrix and cut-set matrix.
-
-## Identity
-
-| Name | Student ID |
-|---|---|
-| [Member 1] | [Student ID] |
-| [Member 2] | [Student ID] |
-| [Member 3] | [Student ID] |
-| [Member 4] | [Student ID] |
-
 ## Prerequisites
 
 - Python 3
