@@ -29,20 +29,14 @@
    [command to run the application]
 Sample Input
 
-Enter matrix type (adjacency/incidence): adjacency
-Enter the number of rows: 3
-Enter the number of columns: 3
-Enter the matrix values, with 3 values per row:
-0 1 1
-1 0 1
-1 1 0
+<img width="555" height="154" alt="image" src="https://github.com/user-attachments/assets/5c9c26ac-399a-4585-b0dc-6afbe1a4f16a" />
+
 
 Sample Output
 Graph:
-Adjacency Matrix:
-0 1 1
-1 0 1
-1 1 0
+
+<img width="491" height="130" alt="image" src="https://github.com/user-attachments/assets/2bc5b63f-e92d-4b97-a17f-f14fd49ec37d" />
+
 
 Fundamental Cycle Matrix:
 [1 1 1]
