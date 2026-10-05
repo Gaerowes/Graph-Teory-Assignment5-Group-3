@@ -28,6 +28,7 @@
 3. Run the application:
    [command to run the application]
 Sample Input
+
 Enter matrix type (adjacency/incidence): adjacency
 Enter the number of rows: 3
 Enter the number of columns: 3
